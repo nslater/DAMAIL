@@ -11,3 +11,5 @@ Add a copyright notice to whatever you want to license and then copy the license
 ## License
 
 Licensed under itself. Don't bother emailing me about it.
+
+You can [follow me on Twitter](https://twitter.com/intent/user?screen_name=nslater) though!
