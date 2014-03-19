@@ -2,7 +2,7 @@
 
 ## Full License Text
 
-> Copying and distribution of this file, with or without modification, are permitted in any medium provided you do not contact me about the file or any problems you are having with the file.
+> Copying and distribution of this file, with or without modification, are permitted in any medium provided you do not contact the author about the file or any problems you are having with the file.
 
 ## How To Apply This To Your Stuff
 
